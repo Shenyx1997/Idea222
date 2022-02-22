@@ -14,7 +14,7 @@ public class Girl {
     private String age;
 
     private String a;
-    public  String  h;
+    public  String  c;
 
 
 }
